@@ -6,5 +6,11 @@ public class Class1 {
 		System.out.println("Login code----");
 		
 	}
-
+	
+	public void mainMenu() {
+		
+		System.out.println("Main Menu Code-------");
+		
+	}
+	
 }
